@@ -1,10 +1,22 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&height=70&lines=Reality+is+a+suggestion;Not+a+specification;Insane-11+%C2%B7+AI%2FML+Engineer;Building+the+future.+Breaking+things." alt="Typing SVG" />
-</a>
-
+  <img src="https://i.makeagif.com/media/8-23-2024/WkRt53.gif" width="100%" alt="samurai in the rain" />
 </div>
+
+<h1 align="center">Insanne</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&height=60&lines=Reality+is+a+suggestion;Not+a+specification;Trust+me%2C+I%27m+an+%27engineer%27;Building+the+future.+Breaking+things." alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## 📊 Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insane-11&theme=radical&hide_border=true" width="70%" />
+</p>
 
 ---
 
@@ -48,11 +60,3 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Insane-11/Insane-11/output/snake.svg" />
   </picture>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Made%20with-%F0%9F%96%A4%20and%20%C2%B5%20servers-7C3AED?style=flat-square" />
-
-</div>
