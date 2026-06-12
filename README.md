@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/KKSCqiWCtQyTe8cZ2u/giphy.gif" width="100%" alt="samurai in the rain" />
+  <img src="https://media.giphy.com/media/1gOBnai5Hyw0Ixymg7/giphy.gif" width="100%" alt="samurai in the rain" />
 </div>
 
 <h1 align="center">Insanne</h1>
