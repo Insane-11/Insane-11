@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/1gOBnai5Hyw0Ixymg7/giphy.gif" width="100%" alt="samurai in the rain" />
+  <img src="https://raw.githubusercontent.com/Insane-11/Insane-11/main/assets/cover.gif" width="100%" alt="ghost of tsushima" />
 </div>
 
 <h1 align="center">Insanne</h1>
