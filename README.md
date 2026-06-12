@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Insane-11/Insane-11/main/assets/cover.gif" width="100%" alt="ghost of tsushima" />
+  <img src="https://raw.githubusercontent.com/Insane-11/Insane-11/main/assets/cover.gif" width="100%" alt="warrior" />
 </div>
 
 <h1 align="center">Insanne</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&height=60&lines=Reality+is+a+suggestion;Not+a+specification;Trust+me%2C+I%27m+an+%27engineer%27;Building+the+future.+Breaking+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&height=70&lines=Reality+is+a+suggestion;Not+a+specification;Trust+me%2C+I%27m+an+engineer;I+put+the+%27pro%27+in+%27procrastination%27;Building+the+future.+Breaking+things.;Some+call+it+bugs%2C+I+call+it+features" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📊 Contributions
+## 🎲 idk man github generates these numbers randomly
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insane-11&theme=radical&hide_border=true" width="70%" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 i try my best to remember these things
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 👀 observe the snake and waste your time
 
 <p align="center">
   <picture>
