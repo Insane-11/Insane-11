@@ -49,7 +49,7 @@
 
 ---
 
-## 👀 observe the snake and waste your time, and fuck the production
+## 👀 observe the snake and waste your time, fuck the production
 
 <p align="center">
   <picture>
