@@ -58,3 +58,23 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Insane-11/Insane-11/output/snake.svg" />
   </picture>
 </p>
+
+---
+
+## 📬 hit me up (but make it professional)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/---mrinmoy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Insane-11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mrinmoy.das@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  <i>📍 Kolkata, India — open for junior dev roles, internships, and chaos engineering</i>
+</p>
